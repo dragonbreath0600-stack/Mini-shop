@@ -1,13 +1,11 @@
 План API
 
-Эндпоинты
+Эндопоинты
 
 Товары:
-- GET /products - получить список товаров
-- POST /products - добавить товар
-- GET /products/{id} - получить товар по ID
+- Get /products - список товаров
+- Post /products - добавить товар
 
-Заказы
-- GET /orders - получить список заказов
-- POST /orders - создать заказ
-- GET /orders - получить заказ по ID
+Заказы:
+- Get /orders - список заказов
+- Post /orders - создать заказ
